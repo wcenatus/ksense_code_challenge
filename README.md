@@ -21,3 +21,8 @@ To run the production build (run build first):
 ```bash
 npm run start
 ```
+
+### End Points
+
+/ksense (GET)
+/ksense (POST)
